@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.2;
+    background-color: #cf5c96;
+    color: #333;
+}
+
+.app-header {
+    background: #b422b9; 
+    color: rgb(255, 255, 255); 
+    padding: 5px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+body { 
+    background: #cf5c96;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 2px solid #ffeb33; 
+}
+
+.section {
+    padding: 50px 0;
+}
+
+h2 {
+    color: #000000;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+p {
+    color: #000000;
+    line-height: 1.6;
+}
+
+.service-item .card-body {
+    text-align: center;
+}
+
+.service-item .card-title {
+    color: #E3C636;
+    font-size: 1.2em;
+    margin-top: 15px;
+}
+
+.service-item .btn {
+    background-color: #E3C636;
+    color: #000000;
+    margin-top: 15px;
+}
+
+.service-item .btn:hover {
+    background-color: #E3C636;
+}
+
+#faq .card-header {
+    background-color: #E3C636;
+    color: #ffffff;
+}
+
+#faq .card-header .btn-link {
+    color: #000000;
+    text-decoration: none;
+}
+
+#faq .card-header .btn-link:hover {
+    color: #000000;
+}
+
+#faq .card-body {
+    background-color: #ffffff;
+}
